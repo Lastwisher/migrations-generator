@@ -16,7 +16,10 @@
 		}
 	],
 	"require": {
-
+		"php": ">=5.4.0",
+		"illuminate/support": ">=4.1|^6.0",
+		"xethron/laravel-4-generators": "dev-master",
+		"doctrine/dbal": "~2.4"
 	},
 	"autoload": {
 		"psr-0": {
